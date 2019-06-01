@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="fuzzy" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/fuzzy" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/fuzzy" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../Projeto Visual Studio/Fuzzy.cpp" />
+		<Unit filename="../Projeto Visual Studio/Fuzzy.h" />
+		<Unit filename="../Projeto Visual Studio/FuzzyComposition.cpp" />
+		<Unit filename="../Projeto Visual Studio/FuzzyComposition.h" />
+		<Unit filename="../Projeto Visual Studio/FuzzyIO.cpp" />
+		<Unit filename="../Projeto Visual Studio/FuzzyIO.h" />
+		<Unit filename="../Projeto Visual Studio/FuzzyInput.cpp" />
+		<Unit filename="../Projeto Visual Studio/FuzzyInput.h" />
+		<Unit filename="../Projeto Visual Studio/FuzzyOutput.cpp" />
+		<Unit filename="../Projeto Visual Studio/FuzzyOutput.h" />
+		<Unit filename="../Projeto Visual Studio/FuzzyRule.cpp" />
+		<Unit filename="../Projeto Visual Studio/FuzzyRule.h" />
+		<Unit filename="../Projeto Visual Studio/FuzzyRuleAntecedent.cpp" />
+		<Unit filename="../Projeto Visual Studio/FuzzyRuleAntecedent.h" />
+		<Unit filename="../Projeto Visual Studio/FuzzyRuleConsequent.cpp" />
+		<Unit filename="../Projeto Visual Studio/FuzzyRuleConsequent.h" />
+		<Unit filename="../Projeto Visual Studio/FuzzySet.cpp" />
+		<Unit filename="../Projeto Visual Studio/FuzzySet.h" />
+		<Unit filename="../Projeto Visual Studio/general_simple_sample.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

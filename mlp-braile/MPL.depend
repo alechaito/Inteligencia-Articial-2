@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1475784486 source:/home/matheus/Files/College/Inteligencia Artificial II/MPL/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1475786661 source:/home/alechaito/UFSC/semestre-5/ia2/MPL/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1476216898 source:/home/alechaito/UFSC/semestre-5/ia2/mpl-prof-sex/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1476389750 source:/home/alechaito/UFSC/semestre-5/ia2/mlp-braile/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

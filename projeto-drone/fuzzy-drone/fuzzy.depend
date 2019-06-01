@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1400234234 source:/home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/Fuzzy.cpp
+	"Fuzzy.h"
+
+1400234234 /home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/Fuzzy.h
+	<inttypes.h>
+	"FuzzyInput.h"
+	"FuzzyOutput.h"
+	"FuzzyRule.h"
+
+1400234234 /home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyInput.h
+	"FuzzyIO.h"
+
+1400234234 /home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyIO.h
+	<stdlib.h>
+	"FuzzySet.h"
+
+1400234234 /home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzySet.h
+
+1400234234 /home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyOutput.h
+	"FuzzyIO.h"
+	"FuzzyComposition.h"
+
+1400234234 /home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyComposition.h
+	<stdlib.h>
+
+1400234234 /home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyRule.h
+	"FuzzyRuleAntecedent.h"
+	"FuzzyRuleConsequent.h"
+
+1400234234 /home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyRuleAntecedent.h
+	<stdlib.h>
+	"FuzzySet.h"
+
+1400234234 /home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyRuleConsequent.h
+	<stdlib.h>
+	"FuzzySet.h"
+
+1400234234 source:/home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyComposition.cpp
+	"FuzzyComposition.h"
+	<math.h>
+
+1400234234 source:/home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyInput.cpp
+	"FuzzyInput.h"
+
+1400234234 source:/home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyIO.cpp
+	"FuzzyIO.h"
+
+1400234234 source:/home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyOutput.cpp
+	"FuzzyOutput.h"
+
+1400234234 source:/home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyRule.cpp
+	"FuzzyRule.h"
+
+1472153116 source:/home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyRuleAntecedent.cpp
+	"FuzzyRuleAntecedent.h"
+
+1400234234 source:/home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzyRuleConsequent.cpp
+	"FuzzyRuleConsequent.h"
+
+1400234234 source:/home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/FuzzySet.cpp
+	"FuzzySet.h"
+
+1477333133 source:/home/alechaito/UFSC/semestre-5/ia2/Projeto Visual Studio/general_simple_sample.cpp
+	<iostream>
+	<stdlib.h>
+	"FuzzyRule.h"
+	"FuzzyComposition.h"
+	"Fuzzy.h"
+	"FuzzyRuleConsequent.h"
+	"FuzzyOutput.h"
+	"FuzzyInput.h"
+	"FuzzyIO.h"
+	"FuzzySet.h"
+	"FuzzyRuleAntecedent.h"
+
